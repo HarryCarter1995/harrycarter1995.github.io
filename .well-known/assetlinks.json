@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.rewardapp",
+    "sha256_cert_fingerprints":
+    ["19:D7:31:19:F0:51:18:7C:4A:B4:47:98:87:D8:64:28:66:15:CA:81:B4:A3:52:74:E8:92:BC:59:8F:4A:D4:F6"]
+  }
+}]
