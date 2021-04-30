@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.harrycarter.rewardapp",
+    "package_name": "com.example.rewardapp",
     "sha256_cert_fingerprints":
     ["03:61:CB:8C:8C:FC:14:60:42:2D:4D:7F:25:75:B5:60:6F:33:46:37:7A:F3:2D:60:D9:3D:34:E3:9B:7F:06:75"]
   }
